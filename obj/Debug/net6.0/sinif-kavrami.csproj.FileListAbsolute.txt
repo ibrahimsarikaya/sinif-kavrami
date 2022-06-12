@@ -1,0 +1,15 @@
+C:\Derslerim\sinif-kavrami\bin\Debug\net6.0\sinif-kavrami.exe
+C:\Derslerim\sinif-kavrami\bin\Debug\net6.0\sinif-kavrami.deps.json
+C:\Derslerim\sinif-kavrami\bin\Debug\net6.0\sinif-kavrami.runtimeconfig.json
+C:\Derslerim\sinif-kavrami\bin\Debug\net6.0\sinif-kavrami.dll
+C:\Derslerim\sinif-kavrami\bin\Debug\net6.0\sinif-kavrami.pdb
+C:\Derslerim\sinif-kavrami\obj\Debug\net6.0\sinif-kavrami.csproj.AssemblyReference.cache
+C:\Derslerim\sinif-kavrami\obj\Debug\net6.0\sinif-kavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Derslerim\sinif-kavrami\obj\Debug\net6.0\sinif-kavrami.AssemblyInfoInputs.cache
+C:\Derslerim\sinif-kavrami\obj\Debug\net6.0\sinif-kavrami.AssemblyInfo.cs
+C:\Derslerim\sinif-kavrami\obj\Debug\net6.0\sinif-kavrami.csproj.CoreCompileInputs.cache
+C:\Derslerim\sinif-kavrami\obj\Debug\net6.0\sinif-kavrami.dll
+C:\Derslerim\sinif-kavrami\obj\Debug\net6.0\refint\sinif-kavrami.dll
+C:\Derslerim\sinif-kavrami\obj\Debug\net6.0\sinif-kavrami.pdb
+C:\Derslerim\sinif-kavrami\obj\Debug\net6.0\sinif-kavrami.genruntimeconfig.cache
+C:\Derslerim\sinif-kavrami\obj\Debug\net6.0\ref\sinif-kavrami.dll
